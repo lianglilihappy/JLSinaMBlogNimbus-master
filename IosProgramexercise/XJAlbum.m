@@ -4,7 +4,7 @@
 //
 //  Created by 万旭杰 on 15/8/31.
 //  Copyright (c) 2015年 万旭杰. All rights reserved.
-//提交测试by jessica222
+//
 
 #import "XJAlbum.h"
 @implementation XJAlbum
